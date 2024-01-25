@@ -13,8 +13,8 @@ media
 
 django_project/__pycache__/*
 
-# books/__pycache__/*
-# books/migrations/*
+todos/__pycache__/*
+todos/migrations/*
 
 # apis/__pycache__/*
 
